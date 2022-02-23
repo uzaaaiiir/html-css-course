@@ -37,6 +37,7 @@
 
 --- 04 BORDER-RADIUS
     Default: 9px
+    11px
 
 --- 05 WHITESPACE 
     --SPACING SYSTEM (px)
@@ -173,4 +174,8 @@ body {
 
 .margin-right-sm {
     margin-right: 1.6rem !important;
+}
+
+strong {
+    font-weight: 500;
 }
