@@ -377,3 +377,10 @@
 .gallery-item img:hover {
     transform: scale(1.1);
 }
+
+/*****************************/
+/* SECTION PRICING */
+/*****************************/
+.section-pricing {
+    padding: 9.6rem 0;
+}
