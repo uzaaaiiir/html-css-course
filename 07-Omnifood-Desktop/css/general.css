@@ -25,12 +25,15 @@
 
     --Primary: #e67e22
 
-    --Tints (Darker): #fdf2e9 #fae5d3
+    --Tints (Lighter): #fdf2e9 #fae5d3
 
-    --Shades (Light): #cf711f #eb984e
+    --Shades (Darker): #cf711f #eb984e
 
     --Greys: 
     #6f6f6f - Lightest grey allowed on #fdf2e9
+    #888
+    #767676 Lightest Grey allowed on white 
+    #777
     #555
     #333
     #45260a
